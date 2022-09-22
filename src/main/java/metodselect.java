@@ -1,7 +1,7 @@
 
 public class metodselect {
 
-    public void ordenselect(int[] arr) {
+    public void ordenselect(int [] arr) {
         int pivote = 0;
         int temp = 0;
         int aux = 0;
@@ -27,4 +27,4 @@ public class metodselect {
         }
 
     }
-}
+   }
